@@ -5,3 +5,4 @@ Installation/Setup instructions: Available at www.tokyoturntable.com
 Technologies used: Made with Ruby on rails, deployed on Heroku, images handled with cloudinary.
 
 License: 
+![image](https://github.com/user-attachments/assets/decf20b3-5022-41ed-bc70-5bd126fd1f22)
