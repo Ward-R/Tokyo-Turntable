@@ -1,6 +1,6 @@
 # 📚 Tokyo Turntable
 
-Tokyo Turntable is a mobile web-app that helps users find shows to go to in the Tokyo area. It webscrapes venues and show listings, then it automatically pairs the bands to spotify so you can hear what they sound like. 
+This was our final rails group project at Le Wagon. Tokyo Turntable is a mobile web-app that helps users find shows to go to in the Tokyo area. It webscrapes venues and show listings, then it automatically pairs the bands to spotify so you can hear what they sound like. 
 
 ![image](https://github.com/user-attachments/assets/decf20b3-5022-41ed-bc70-5bd126fd1f22)
 <br>
